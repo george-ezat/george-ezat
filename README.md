@@ -13,7 +13,7 @@
 
 ---
 
-# **Languages & Tools**
+# **Languages & Tools⚙️**
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=ubuntu,vscode,github,git,cpp,python,mysql,postgres" />
