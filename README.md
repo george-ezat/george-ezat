@@ -8,7 +8,7 @@
     <a href="https://github.com/GeorgeEzat?tab=followers">
         <img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/GeorgeEzat?label=Follow&style=for-the-badge&logo=github&color=236ad3&labelColor=1155ba"/></a>
     <a href="https://github.com/GeorgeEzat?tab=repositories&sort=stargazers">
-        <img alt="GitHub Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/GeorgeEzat?label=⭐%20Stars&style=for-the-badge&color=55960c&labelColor=488207"/></a>
+        <img alt="GitHub Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/GeorgeEzat?logo=github&label=Stars&style=for-the-badge&color=55960c&labelColor=488207"/></a>
 </p>
 
 ---
