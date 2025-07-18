@@ -6,9 +6,9 @@
     <a href="https://www.linkedin.com/in/george-ezat/">
         <img alt="Connect with me on LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?color=1f7daf&labelColor=0e76a8&style=for-the-badge&logo=linkedin-s&label=&logoColor=white"/></a>
     <a href="https://github.com/GeorgeEzat?tab=followers">
-        <img alt="Follow me on GitHub" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/GeorgeEzat?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow&logoColor=white"/></a>
+        <img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/GeorgeEzat?label=Follow&style=for-the-badge&logo=github&color=236ad3&labelColor=1155ba"/></a>
     <a href="https://github.com/GeorgeEzat?tab=repositories&sort=stargazers">
-        <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/GeorgeEzat?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+        <img alt="GitHub Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/GeorgeEzat?label=⭐%20Stars&style=for-the-badge&color=55960c&labelColor=488207"/></a>
 </p>
 
 ---
@@ -16,7 +16,7 @@
 # **Languages & Tools ⚙️**
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,github,git,cpp,python,mysql,postgres" />
+    <img src="https://skillicons.dev/icons?i=ubuntu,vscode,github,git,python,mysql,postgres,cpp,java,html,css,md" />
 </div>
 
 ---
@@ -27,9 +27,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=GeorgeEzat&theme=github_dark&hide_border=false&include_all_commits=false&count_private=true&show_icons=true&rank_icon=github&border_radius=10)
 
-![](https://nirzak-streak-stats.vercel.app/?user=GeorgeEzat&theme=github_dark&hide_border=false&count_private=true&border_radius=10)
+![](https://streak-stats.demolab.com/?user=GeorgeEzat&theme=github_dark&hide_border=false&count_private=true&border_radius=10)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeEzat&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=10&exclude_repo=GeorgeEzat)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeEzat&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&border_radius=10&hide=Qmake&exclude_repo=GeorgeEzat)
 
 </div>
 
