@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=george-ezat">
+    <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=george-ezat" target="_blank">
         <img alt="Connect with me on LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Follow-blue?color=1f7daf&cache_buster=2&labelColor=0e76a8&style=flat&logo=linkedin-s&label=&logoColor=white"/></a>
     <a href="https://github.com/george-ezat">
         <img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/george-ezat?label=Follow&style=flat&logo=github&color=236ad3&cache_buster=2&labelColor=1155ba"/></a>
     <img alt="GitHub Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/george-ezat?logo=star&label=Stars&style=flat&color=55960c&cache_buster=2&labelColor=488207&logoColor=White"/>
     <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=george-ezat&abbreviated=t&style=flat&label=Views">
-    <a href="https://drive.google.com/file/d/1Qz0olkDeOcsYJa4Rn1-jy1XgNSvPmC2r/view">
+    <a href="https://drive.google.com/file/d/1Qz0olkDeOcsYJa4Rn1-jy1XgNSvPmC2r/view" target="_blank">
         <img alt="George Ezzat Resume" src="https://custom-icon-badges.demolab.com/badge/Resume-white?logo=resume-ge&color=394867&cache_buster=2&labelColor=394867&style=flat&logoColor=white">
     </a>
 </p>
