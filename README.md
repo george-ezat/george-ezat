@@ -7,8 +7,12 @@
         <img alt="Connect with me on LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Follow-blue?color=1f7daf&cache_buster=2&labelColor=0e76a8&style=flat&logo=linkedin-s&label=&logoColor=white"/></a>
     <a href="https://github.com/george-ezat">
         <img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/george-ezat?label=Follow&style=flat&logo=github&color=236ad3&cache_buster=2&labelColor=1155ba"/></a>
-    <img alt="GitHub Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/george-ezat?logo=star&label=Stars&style=flat&color=55960c&cache_buster=2&labelColor=488207&logoColor=White"/>
-    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=george-ezat&abbreviated=t&style=flat&label=Views">
+    <a href="https://github.com/george-ezat?tab=repositories&q=&type=&language=&sort=stargazers">
+        <img alt="GitHub Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/george-ezat?logo=star&label=Stars&style=flat&color=55960c&cache_buster=2&labelColor=488207&logoColor=White"/>
+    </a>
+    <a href="https://github.com/george-ezat">
+        <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=george-ezat&abbreviated=t&style=flat&label=Views">
+    </a>
     <a href="https://drive.google.com/file/d/1Qz0olkDeOcsYJa4Rn1-jy1XgNSvPmC2r/view" target="_blank">
         <img alt="George Ezzat Resume" src="https://custom-icon-badges.demolab.com/badge/Resume-white?logo=resume-ge&color=394867&cache_buster=2&labelColor=394867&style=flat&logoColor=white">
     </a>
@@ -17,7 +21,6 @@
 ---
 
 ## **Languages & Tools** <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20">
-
 
 ![Python](https://custom-icon-badges.demolab.com/badge/-Python-05122A?logo=python-ge&style=flat)&nbsp;
 ![SQL](https://custom-icon-badges.demolab.com/badge/-SQL-05122A?logo=sql-ge&style=flat)&nbsp;
@@ -35,7 +38,6 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS&logoColor=1572B6)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
-
 ## **GitHub Stats 📊**
 
 <div align='center'>
@@ -47,7 +49,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=george-ezat&theme=github_dark&cache_buster=2&hide_border=false&card_width=450&include_all_commits=true&count_private=true&border_radius=10&hide=Qmake)
 
 </div>
-
 
 ## **GitHub Trophies 🏆**
 
