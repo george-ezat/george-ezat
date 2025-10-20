@@ -10,7 +10,7 @@
     <a href="https://github.com/george-ezat?tab=repositories&q=&type=&language=&sort=stargazers">
         <img alt="GitHub Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/george-ezat?logo=star&label=Stars&style=flat&color=55960c&cache_buster=2&labelColor=488207&logoColor=White"/></a>
     <a href="https://github.com/george-ezat">
-        <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=george-ezat&abbreviated=t&style=flat&label=Views"></a>
+        <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=george-ezat&abbreviated=t&style=flat&label=Views&color=gray"></a>
     <a href="https://drive.google.com/file/d/1Qz0olkDeOcsYJa4Rn1-jy1XgNSvPmC2r/view" target="_blank">
         <img alt="George Ezzat Resume" src="https://custom-icon-badges.demolab.com/badge/Resume-white?logo=resume-ge&color=394867&cache_buster=2&labelColor=394867&style=flat&logoColor=white"></a>
 </p>
