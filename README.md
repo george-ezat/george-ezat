@@ -1,18 +1,21 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=George%20Ezzat&fontSize=90&animation=fadeIn&fontAlignY=37&desc=Data%20Engineer%20%7C%20Python%20%7C%20SQL&descAlignY=55&descAlign=65" width="100%">
+
+
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=35&center=true&vCenter=true&color=bbcfe2&width=500&height=70&duration=3000&lines=Hi+There!+👋🏻;+I'm+George+Ezzat;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu&size=30&center=true&vCenter=true&color=bbcfe2&width=500&height=50&duration=3000&lines=Hi+There!+👋🏻;+I'm+a+Data+Enthusiast;+Building+Scalable+Solutions;"/>
 </p>
 
 <p align="center">
     <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=george-ezat" target="_blank">
-        <img alt="Connect with me on LinkedIn" title="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Follow-blue?color=1f7daf&cache_buster=2&labelColor=0e76a8&style=flat&logo=linkedin-s&label=&logoColor=white"/></a>
+    <img alt="Follow me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/Follow-0077B5?style=flat&logo=linkedin-s&logoColor=white"/></a>
     <a href="https://github.com/george-ezat">
-        <img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/george-ezat?label=Follow&style=flat&logo=github&color=236ad3&cache_buster=2&labelColor=1155ba"/></a>
+        <img alt="GitHub followers" src="https://img.shields.io/github/followers/george-ezat?label=Follow&style=flat&logo=github&color=236ad3&labelColor=1155ba"/></a>
     <a href="https://github.com/george-ezat?tab=repositories&q=&type=&language=&sort=stargazers">
-        <img alt="GitHub Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/george-ezat?logo=star&label=Stars&style=flat&color=55960c&cache_buster=2&labelColor=488207&logoColor=White"/></a>
+        <img alt="GitHub Stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/george-ezat?logo=star&label=Stars&style=flat&color=55960c&labelColor=488207&logoColor=White"/></a>
     <a href="https://github.com/george-ezat">
-        <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=george-ezat&abbreviated=t&style=flat&label=Views&color=gray"></a>
+        <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=george-ezat&abbreviated=t&style=flat&label=Profile+Views&color=blueviolet"></a>
     <a href="https://drive.google.com/file/d/1Qz0olkDeOcsYJa4Rn1-jy1XgNSvPmC2r/view" target="_blank">
-        <img alt="George Ezzat Resume" src="https://custom-icon-badges.demolab.com/badge/Resume-white?logo=resume-ge&color=394867&cache_buster=2&labelColor=394867&style=flat&logoColor=white"></a>
+        <img alt="George Ezzat Resume" src="https://img.shields.io/badge/Resume-394867?style=flat&logo=google-drive&logoColor=white"/></a>
 </p>
 
 ---
@@ -26,9 +29,10 @@
 ![MicroSoft SQL Server](https://custom-icon-badges.demolab.com/badge/-MSSQL-05122A?logo=mssql-ge&style=flat)&nbsp;
 ![PostgreSQL](https://custom-icon-badges.demolab.com/badge/-PostgreSQL-05122A?logo=postgres-ge&style=flat)&nbsp;
 ![Apache Airflow](https://custom-icon-badges.demolab.com/badge/-Apache%20Airflow-05122A?logo=airflow-ge&style=flat)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-05122A?style=flat&logo=jupyter)&nbsp;
 ![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -54,5 +58,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=george-ezat&theme=nord&no-frame=false&no-bg=t&margin-w=6&cache_buster=2&row=1&column=7)
 
 </div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 
 ---
